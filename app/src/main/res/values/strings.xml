@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">एस. बी. युवा</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_share">शेअर करा</string>
+    <string name="menu_send">पाठवा</string>
+
+    <string name="menu_home">मुख्य सेवा</string>
+    <string name="menu_gallery">इतर सेवा</string>
+    <string name="product_details">उत्पादन तपशील</string>
+    <string name="menu_slideshow">आमच्याबद्दल</string>
+    <string name="menu_tools">संपर्क</string>
+    <string name="home_second">Home Second</string>
+    <string name="main_title"> एस.बी.युवा फौंडेशन </string>
+    <string name="sub_title"> खालील क्षेत्रांमध्ये कार्यरत आहे.</string>
+    <string name="title_activity_about_us">AboutUsActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="about_us_1"> \t\t\tसंत बाळूमामा होम अप्लायन्स आणि कृषी अवजारे व इंटरनॅशनल कृषी पर्यटन सन्मान ऑग्रो प्रोड्युसर कंपनी हि एक  समाजातील आर्थिक, दुर्बल, व वंचित घटकांसाठी १० ते ५० टक्के सबसिडी मध्ये लाभार्थ्यांना वस्तू उपलब्ध करून देते. संपूर्ण भारतातील ग्राहकांना नामवंत स्वदेशी ब्रँड तसेच नाविन्यपूर्ण वस्तू कृषी अवजारे, इलेक्ट्रिक वस्तू, फ़र्निचर, गारमेंट, शेतीविषयक औषधे व लागवड हि सर्व वस्तू उपलब्ध करून देण्याचा उद्देश आहे.
+ स्वदेशी उद्योगांना देशात महिला सबलीकरण व युवकांना रोजगार देऊन समाजातील वंचित घटकापर्यंत कमीत कमी दरामध्ये वस्तू देऊन प्रोत्साहन देण्याच्या उद्देश्याने आमची संस्था स्थापन करण्यात अली आहे. एक सामाजिक बांधिलकी म्हणून हा उपक्रम राबवला जात आहे. आमच्या संस्थेचे मुख्य उद्दिष्ट म्हणजे सर्व देशाच्या कानाकोपऱ्यात दुर्गम भागात सर्व खेड्यांच्या वस्त्यापर्यंत सर्व ग्राहकांना घरपोच उत्पादन पोहचवण्यासाठी आम्ही प्रयत्नशील आहोत.
+आजघडीला उत्पादक आणि ग्राहक याना थेट जोडणारी कोणतेही साखळी महाराष्ट्रात, किंबहुना देशभरात अस्तित्त्वात नाही. संत बाळूमामा होम अप्लायन्स आणि कृषी अवजारे व इंटरनॅशनल कृषी पर्यटन सन्मान ऑग्रो प्रोड्युसर कंपनी हि पोकळी समर्थपणे भरून काढणे आणि उत्पादक ते ग्राहक हे समीकरण समर्थपणे अस्तित्वात आणले असा विश्वास आहे. </string>
+
+    <string name="about_us_2">\tसंस्थेचे वेगळेपण\n
+                            १.व्यक्तिगत जिव्हाळ्याने घरपोच वस्तुवितरण.\n
+                            २.नाविन्यपूर्ण आणि अन्यत्र सहज उपलब्ध नसणारी उत्पादने.\n
+                            ३.हजारो नाविन्यपूर्ण उत्पादनाच्या दुनियेत भावरम्य सफर.\n
+                            ४.महाराष्ट्राच्या कानाकोपऱ्यात संपादकांचे मजबूत परंतु स्नेहपूर्ण जाळे.\n
+                            ५.उत्पादन धोरण ठरवण्यासाठी आवश्यक असलेली अगदी एकका ग्राहकाची सर्वप्रकारची बारीकसारीक माहिती.\n
+
+                            \n\n\n\n
+                            १.व्हिजन\n
+                            देशातील सर्वात विश्वासांर्ह आणि प्रतिष्टीत इ -कॉमर्स कंपनी अशी ओळख निर्माण करणे आणि उच्य दर्जाची ब्रँडेड तसेच नाविन्यपूर्ण स्वदेशी उत्पादने रास्त भावात ग्राहकांना घरपोच उपलब्ध करून देऊन सर्वच संबंधितांना लाभ मिळवून देणे.\n
+                            २.मिशन\n
+                            नाविन्यपूर्ण उत्पादने तयार करणाऱ्या स्वदेशी कंपन्या तसेच व्यक्ती व गट शिधणे, त्यांना प्रोत्साहंन देऊन त्यांचे संवर्धन करून त्यांच्या उत्पादनांना एक मजबूत व विश्वासांर्ह बाजारपेठ मिळवून देणे व या वास्तुवितरण साखळीतील सर्वच संबंधितांना समाधान आणि आनंद मिळवून देणे.\n\n
+    </string>
+
+    <string name="about_us_3">\tसागर भावके
+                                संथपक-अध्यक्ष,\n
+                                एस.बी. सामाजिक व शैक्षणिक युवा फौंडेशन.</string>
+
+
+    <string name="contact_us">\tसावकार प्लाझा,\n
+                            इंडियन पेट्रोल पंपा समोर\n
+                            मूदाळ तिटा,\n
+                            ता. कागल ,जि. कोल्हापूर\n
+                            फोन: 02324-244459\n
+                            ई-मेल: santbalumama.nidhi@gmail.com\n
+    </string>
+
+    <string name="ab_title">संस्थेचे वेगळेपण</string>
+    <string name="des_l1">१.व्यक्तिगत जिव्हाळ्याने घरपोच वस्तुवितरण.</string>
+    <string name="des_l2">२.नाविन्यपूर्ण आणि अन्यत्र सहज उपलब्ध नसणारी उत्पादने.</string>
+    <string name="des_l3">३.हजारो नाविन्यपूर्ण उत्पादनाच्या दुनियेत भावरम्य सफर.</string>
+    <string name="des_l4">४.महाराष्ट्राच्या कानाकोपऱ्यात संपादकांचे मजबूत परंतु स्नेहपूर्ण जाळे.</string>
+    <string name="des_l5">५.उत्पादन धोरण ठरवण्यासाठी आवश्यक असलेली अगदी एकका ग्राहकाची सर्वप्रकारची बारीकसारीक माहिती.</string>
+
+    <string name="des_l6">१.व्हिजन</string>
+    <string name="des_l7">देशातील सर्वात विश्वासांर्ह आणि प्रतिष्टीत इ -कॉमर्स कंपनी अशी ओळख निर्माण करणे आणि उच्य दर्जाची ब्रँडेड तसेच नाविन्यपूर्ण स्वदेशी उत्पादने रास्त भावात ग्राहकांना घरपोच उपलब्ध करून देऊन सर्वच संबंधितांना लाभ मिळवून देणे.</string>
+    <string name="des_l8">२.मिशन</string>
+    <string name="des_l9">नाविन्यपूर्ण उत्पादने तयार करणाऱ्या स्वदेशी कंपन्या तसेच व्यक्ती व गट शिधणे, त्यांना प्रोत्साहंन देऊन त्यांचे संवर्धन करून त्यांच्या उत्पादनांना एक मजबूत व विश्वासांर्ह बाजारपेठ मिळवून देणे व या वास्तुवितरण साखळीतील सर्वच संबंधितांना समाधान आणि आनंद मिळवून देणे.</string>
+    <string name="title_activity_contack_us">ContackUs</string>
+    <string name="title_activity_uscontact">uscontact</string>
+
+</resources>

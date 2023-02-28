@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/design_edt"
+    android:padding="@dimen/padding_10"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_msg"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="5dp"
+            android:gravity="center"
+            android:text="please enter customer name"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="24sp" />
+
+    </LinearLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/padding_5dp"
+        android:background="@drawable/round_border_design">
+
+        <TableRow
+            android:gravity="center_horizontal">
+
+            <EditText
+                android:id="@+id/edt_cust_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Enter Name here:"
+                android:textSize="17sp"
+                tools:srcCompat="@tools:sample/avatars" />
+
+
+        </TableRow>
+
+    </TableLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/padding_5dp"
+        android:background="@drawable/round_border_design">
+
+        <TableRow
+            android:gravity="center_horizontal">
+
+            <EditText
+                android:id="@+id/edt_cust_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:hint="Enter Contact No:"
+                android:textSize="17sp"
+                tools:srcCompat="@tools:sample/avatars" />
+
+
+        </TableRow>
+
+    </TableLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/padding_5dp"
+        android:background="@drawable/round_border_design">
+
+        <TableRow
+            android:gravity="center_horizontal">
+
+            <EditText
+                android:id="@+id/edt_cust_address"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Enter Address:"
+                android:textSize="17sp"
+                tools:srcCompat="@tools:sample/avatars" />
+
+
+        </TableRow>
+
+    </TableLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TableRow
+            android:gravity="center_horizontal">
+
+            <Button
+                android:id="@+id/btnCancel"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:textAllCaps="false"
+                android:layout_marginRight="@dimen/padding_5dp"
+                android:text="No"
+                android:textSize="21sp"
+                android:textColor="#fff"
+                android:background="@drawable/bg" />
+
+            <Button
+                android:id="@+id/btn_ok"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:textAllCaps="false"
+                android:textSize="21sp"
+                android:layout_marginLeft="@dimen/padding_5dp"
+                android:text="Yes"
+                android:textColor="#fff"
+                android:background="@drawable/bg"/>
+
+
+        </TableRow>
+
+    </TableLayout>
+
+
+</LinearLayout>

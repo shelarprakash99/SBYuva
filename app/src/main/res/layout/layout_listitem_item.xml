@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/design_edt"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:id="@+id/parent_layout"
+    tools:context="com.prakash.SbYuva.ItemDetails">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/padding_5dp"
+        android:background="@drawable/round_border_design">
+
+        <ImageView
+            android:id="@+id/img_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/padding_5dp"
+            tools:srcCompat="@tools:sample/avatars" />
+
+        <TableRow
+            android:gravity="center_horizontal">
+
+            <TextView
+                android:id="@+id/tv_pname"
+                android:padding="@dimen/padding_5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Product Name:"
+                android:textSize="17sp"
+                tools:srcCompat="@tools:sample/avatars" />
+
+            <TextView
+                android:id="@+id/tv_product_name"
+                android:padding="@dimen/padding_5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="AGRICULTURE"
+                android:textSize="17sp"
+                tools:srcCompat="@tools:sample/avatars" />
+
+        </TableRow>
+
+        <TableRow
+            android:gravity="center_horizontal">
+
+            <TextView
+                android:id="@+id/tv_iname"
+                android:padding="@dimen/padding_5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Item Name:"
+                android:textSize="17sp"
+                tools:srcCompat="@tools:sample/avatars" />
+
+            <TextView
+                android:id="@+id/tv_item_name"
+                android:padding="@dimen/padding_5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Power trailer"
+                android:textSize="17sp"
+                tools:srcCompat="@tools:sample/avatars" />
+
+        </TableRow>
+
+        <TableRow
+            android:gravity="center_horizontal">
+
+            <TextView
+                android:id="@+id/tv_p"
+                android:padding="@dimen/padding_5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Item Price:"
+                android:textSize="17sp"
+                tools:srcCompat="@tools:sample/avatars" />
+
+            <TextView
+                android:id="@+id/tv_price"
+                android:padding="@dimen/padding_5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Price"
+                android:textSize="17sp"
+                tools:srcCompat="@tools:sample/avatars" />
+
+        </TableRow>
+
+        <TableRow
+            android:gravity="center_horizontal">
+
+            <TextView
+                android:id="@+id/tv_d"
+                android:padding="@dimen/padding_5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Description:"
+                android:textSize="17sp"
+                tools:srcCompat="@tools:sample/avatars" />
+
+            <TextView
+                android:id="@+id/tv_description"
+                android:padding="@dimen/padding_5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Description"
+                android:textSize="17sp"
+                tools:srcCompat="@tools:sample/avatars" />
+
+        </TableRow>
+
+        <TableRow
+            android:gravity="center_horizontal"
+            android:layout_marginTop="@dimen/padding_5dp">
+
+            <Button
+                android:id="@+id/btn_buy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/padding_10"
+                android:textAllCaps="false"
+                android:textColor="#fff"
+                android:background="@drawable/bg"
+                android:text="Order"
+                tools:srcCompat="@tools:sample/avatars" />
+
+        </TableRow>
+
+    </TableLayout>
+
+</LinearLayout>
